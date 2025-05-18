@@ -3,7 +3,7 @@
 Ini adalah repository project UAS mata kuliah PBO Kelompok 3 Informatika 2024D.
 
 ### Anggota Kelomppok
-- Muhammad Khadimas (https://github.com/kadhimass)
+- Muhammad Kadhimas (https://github.com/kadhimass)
 - Oktavio Dwi Prasetyo (https://github.com/OKTAVIO02)
 - Wendy Friska Prastya (https://github.com/wendyfrp)
 - Fatecha Dena Angga Rahmatulloh (https://github.com/fatechaDAR)
